@@ -1,5 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanmuzhang)](https://github.com/anuraghazra/github-readme-stats)
 
+### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanmuzhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Platfrom&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
